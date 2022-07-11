@@ -3,7 +3,7 @@
 
 
 
- ![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyBert)
+ ![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyBert&show_icons=true&theme=radical)
  ## Tecnologia que uso no meu dia!
 
  <div style="display: inline_block"><br/>
