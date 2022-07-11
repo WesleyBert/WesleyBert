@@ -1,7 +1,7 @@
 
  🖱️ ### Olá eu sou wesley💻                   
 
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-berto/)
+
 
  ![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleyBerto&show_icons=true&theme=onedark)
 
@@ -33,6 +33,7 @@
 <img align="center" alt="Django" src=	https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white/>
  </div>
  <br/>
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-berto/)
  <br/>
 
  
