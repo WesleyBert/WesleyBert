@@ -27,7 +27,7 @@
  </div><br/>
 
  <div>
-<img align="center" alt="Django" src=	https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white/>
+<img align="center" alt="React" src=	https://img.shields.io/badge/React-092E20?style=for-the-badge&logo=react&logoColor=white/>
  </div>
  <br/>
  
