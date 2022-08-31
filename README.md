@@ -23,7 +23,7 @@ Bootstrap
  <div>
  
   <div>
-<img align="center" alt="Bootstrap" src=https://img.shields.io/badge/Bootstrap-3776AB?style=for-the-badge&logo=bootstrap&logoColor=white/>
+<img align="center" alt="Bootstrap" src=https://img.shields.io/badge/bootstrap-3776AB?style=for-the-badge&logo=bootstrap&logoColor=white/>
  </div><br/>
  
  <div>
