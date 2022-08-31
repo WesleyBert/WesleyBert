@@ -39,7 +39,9 @@ Bootstrap
  <br/>
 
  
- "Tudo é assustador quando nao a conhecimento".
+ "Veja as oportunidades que a vida te da com uma janela, mas todos querem somente uma porta, por que e mais facil de passar".
+ 
+ "O caminho mais facil, nem sempre e o melhor"
 
  Formas de contato:👇
 
