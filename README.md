@@ -35,6 +35,10 @@ Bootstrap
  </div>
  <br/>
  
+ <div>
+<img align="center" alt="Context API" src=https://img.shields.io/badge/Context API-3776AB?style=for-the-badge&logo=Context API&logoColor=white/>
+ </div><br/>
+ 
    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-berto/)
  <br/>
 
