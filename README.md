@@ -27,7 +27,7 @@ Bootstrap
  </div><br/>
  
  <div>
-<img align="center" alt="Redux" src=https://img.shields.io/badge/Redux-3776AB?style=for-the-badge&logo=redux&logoColor=white/>
+<img align="center" alt="StyledComponents" src=https://img.shields.io/badge/Redux-3776AB?style=for-the-badge&logo=redux&logoColor=white/>
  </div><br/>
 
  <div>
