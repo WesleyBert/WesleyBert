@@ -31,7 +31,7 @@ Bootstrap
  </div><br/>
 
  <div>
-<img align="center" alt="React" src=	https://img.shields.io/badge/React-092E20?style=for-the-badge&logo=react&logoColor=white/>
+<img align="center" alt="Vue.js" src=	https://img.shields.io/badge/Vue.js-092E20?style=for-the-badge&logo=vue.js&logoColor=white/>
  </div>
  <br/>
  
