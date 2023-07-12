@@ -29,7 +29,9 @@ Bootstrap
 <div>
 <img align="center" alt="Spring boot" src=https://img.shields.io/badge/springboot-3776AB?style=for-the-badge&logo=springboot&logoColor=white/>
  </div><br/>
- 
+ <div>
+<img align="center" alt="Spring boot" src=https://img.shields.io/badge/springboot-3776AB?style=for-the-badge&logo=springboot&logoColor=white/>
+ </div><br/>
 
  <div>
  <div>
