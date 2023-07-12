@@ -30,7 +30,7 @@ Bootstrap
 <img align="center" alt="Spring boot" src=https://img.shields.io/badge/springboot-3776AB?style=for-the-badge&logo=springboot&logoColor=white/>
  </div><br/>
  
- <div>
+<div>
 <img align="center" alt="Java" src=https://img.shields.io/badge/java-3776AB?style=for-the-badge&logo=java&logoColor=white/>
  </div><br/>
 
