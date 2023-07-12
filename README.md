@@ -25,7 +25,11 @@ Bootstrap
   <div>
 <img align="center" alt="Bootstrap" src=https://img.shields.io/badge/bootstrap-3776AB?style=for-the-badge&logo=bootstrap&logoColor=white/>
  </div><br/>
- 
+ <div>
+<img align="center" alt="Java" src=https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white/>
+ </div><br/>
+
+ <div>
  <div>
 <img align="center" alt="StyledComponents" src=https://img.shields.io/badge/StyledComponents-3776AB?style=for-the-badge&logo=StyledComponents&logoColor=white/>
  </div><br/>
