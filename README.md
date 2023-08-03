@@ -30,18 +30,9 @@ Bootstrap
 <img align="center" alt="Spring boot" src=https://img.shields.io/badge/springboot-3776AB?style=for-the-badge&logo=springboot&logoColor=white/>
  </div><br/>
  <div>
-<img align="center" alt="Spring boot" src=https://img.shields.io/badge/springboot-3776AB?style=for-the-badge&logo=springboot&logoColor=white/>
- </div><br/>
-
- <div>
  <div>
 <img align="center" alt="StyledComponents" src=https://img.shields.io/badge/StyledComponents-3776AB?style=for-the-badge&logo=StyledComponents&logoColor=white/>
  </div><br/>
-
- <div>
-<img align="center" alt="Vue.js" src=	https://img.shields.io/badge/Vue.js-092E20?style=for-the-badge&logo=vue.js&logoColor=white/>
- </div>
- <br/>
  
  <div>
 <img align="center" alt="ContextApi" src=https://img.shields.io/badge/ContextApi-3776AB?style=for-the-badge&logo=ContextApi&logoColor=white/>
