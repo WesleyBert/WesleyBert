@@ -21,9 +21,7 @@
   <img align="center" alt="Context API" src="https://img.shields.io/badge/Context%20API-3178C6?style=for-the-badge&logo=react&logoColor=white"/>
 </div>
 
-## Sobre Mim:
-"Veja as oportunidades que a vida te dá como uma janela, mas todos querem apenas uma porta, porque é mais fácil passar."
-"O caminho mais fácil nem sempre é o melhor."
+""O único modo de fazer um excelente trabalho é amar o que você faz." - Steve Jobs."
 
 ## Formas de Contato: 👇
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-berto/)
