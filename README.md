@@ -1,6 +1,8 @@
 # Olá, eu sou Wesley! 👋💻
 
-![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyBert&show_icons=true&theme=radical)
+## Linguagens Mais Usadas:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyBert&layout=compact)](https://github.com/WesleyBert)
+
 
 ## Tecnologias que uso no meu dia a dia!
 
