@@ -1,5 +1,8 @@
 # Olá, eu sou Wesley! 👋💻
 
+<img alt="HelloWorld" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgbu-hamovniki.ru%2F%3Fk%3Dmy-collection-of-bit-live-wallpaper-gifs-%5B1920x1080%5D-r-uu-kBg1PXc6&psig=AOvVaw1nuGpgXtfdpVCqasrsGW9Y&ust=1711482808544000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDw2byYkIUDFQAAAAAdAAAAABBZ" style="width: 20rem; height: auto;">
+
+
 ## Linguagens Mais Usadas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyBert&layout=compact&theme=dark)](https://github.com/WesleyBert)
 
