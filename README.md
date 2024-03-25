@@ -1,8 +1,5 @@
 # Olá, eu sou Wesley! 👋💻
 
-<img alt="HelloWorld" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.eco.br%2Fgifs-de-tecnologia%2F&psig=AOvVaw0XjEkBMzAoPsEQx7y2Lzkx&ust=1711483479850000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPj1-fiakIUDFQAAAAAdAAAAABAJ" style="width: 20rem; height: auto;">
-
-
 ## Linguagens Mais Usadas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyBert&layout=compact&theme=dark)](https://github.com/WesleyBert)
 
