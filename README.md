@@ -1,4 +1,4 @@
-<img alt="HelloWorld" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif">
+<img alt="HelloWorld" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" style="width: 10rem; height: auto;">
 # Olá, eu sou Wesley! 👋💻
 
 ## Linguagens Mais Usadas:
