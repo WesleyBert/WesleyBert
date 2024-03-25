@@ -1,6 +1,6 @@
 # Olá, eu sou Wesley! 👋💻
 
-<img alt="HelloWorld" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" style="width: 20rem; height: auto;">
+<img alt="HelloWorld" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.eco.br%2Fgifs-de-tecnologia%2F&psig=AOvVaw0XjEkBMzAoPsEQx7y2Lzkx&ust=1711483479850000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPj1-fiakIUDFQAAAAAdAAAAABAJ" style="width: 20rem; height: auto;">
 
 
 ## Linguagens Mais Usadas:
