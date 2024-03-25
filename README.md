@@ -1,5 +1,7 @@
 # Olá, eu sou Wesley! 👋💻
-
+<div style="text-align: center;">
+  <span id="bem-vindo" style="font-size: 24px;">Bem-Vindo!</span>
+</div>
 ## Linguagens Mais Usadas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyBert&layout=compact&theme=dark)](https://github.com/WesleyBert)
 
