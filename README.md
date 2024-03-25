@@ -1,6 +1,6 @@
 # Olá, eu sou Wesley! 👋💻
 
-<img src="https://i.pinimg.com/originals/13/96/ed/1396ed77fdd5296495cccd2b9c8d29e9.gif"/>
+<img alt="HelloWorld" src="https://i.pinimg.com/originals/13/96/ed/1396ed77fdd5296495cccd2b9c8d29e9.gif" style="width: 10rem; height: auto;">
 
 ## Linguagens Mais Usadas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyBert&layout=compact&theme=dark)](https://github.com/WesleyBert)
