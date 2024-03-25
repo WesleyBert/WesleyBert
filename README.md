@@ -3,8 +3,8 @@
 <table>
   <tr>
     <td>
-      <img alt="HelloWorld" src="![image](https://github.com/WesleyBert/WesleyBert/assets/90710910/0883786b-c75b-4b05-a283-2032faaa80c0)
-" style="width: 20rem; height: auto; padding: 5rem;">
+      <img alt="HelloWorld" src=![image](https://github.com/WesleyBert/WesleyBert/assets/90710910/0883786b-c75b-4b05-a283-2032faaa80c0)
+ style="width: 20rem; height: auto; padding: 5rem;">
     </td>
     <td>
       <a href="https://github.com/WesleyBert">
