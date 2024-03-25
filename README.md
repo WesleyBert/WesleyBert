@@ -2,6 +2,7 @@
 
 ## Linguagens Mais Usadas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyBert&layout=compact&theme=dark)](https://github.com/WesleyBert)
+<img align="center" alt="HelloWorld" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif">
 
 ## Tecnologias que uso no meu dia a dia!
 
