@@ -3,7 +3,8 @@
 <table>
   <tr>
     <td>
-      <img alt="HelloWorld" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2FGXwZgz&psig=AOvVaw1KNQNN07kkar2miFGvMM98&ust=1711483227692000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjT64CakIUDFQAAAAAdAAAAABAJ" style="width: 20rem; height: auto; padding: 5rem;">
+      <img alt="HelloWorld" src="![image](https://github.com/WesleyBert/WesleyBert/assets/90710910/0883786b-c75b-4b05-a283-2032faaa80c0)
+" style="width: 20rem; height: auto; padding: 5rem;">
     </td>
     <td>
       <a href="https://github.com/WesleyBert">
