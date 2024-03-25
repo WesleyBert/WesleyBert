@@ -1,7 +1,27 @@
 # Olá, eu sou Wesley! 👋💻
+
 <div style="text-align: center;">
   <span id="bem-vindo" style="font-size: 24px;">Bem-Vindo!</span>
 </div>
+
+<style>
+  @keyframes mover {
+    0% {
+      transform: translateX(0);
+    }
+    50% {
+      transform: translateX(20px);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+
+  #bem-vindo {
+    animation: mover 2s ease-in-out infinite;
+  }
+</style>
+
 ## Linguagens Mais Usadas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyBert&layout=compact&theme=dark)](https://github.com/WesleyBert)
 
