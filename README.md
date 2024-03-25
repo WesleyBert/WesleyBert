@@ -1,10 +1,18 @@
 # Olá, eu sou Wesley! 👋💻
 
-<img alt="HelloWorld" src="https://images.app.goo.gl/chxdaxZFASCXPLU29" style="width: 20rem; height: auto;">
+<table>
+  <tr>
+    <td>
+      <img alt="HelloWorld" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" style="width: 20rem; height: auto;">
+    </td>
+    <td>
+      <a href="https://github.com/WesleyBert">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyBert&layout=compact&theme=dark" alt="Top Langs" style="max-width: 100%;">
+      </a>
+    </td>
+  </tr>
+</table>
 
-
-## Linguagens Mais Usadas:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyBert&layout=compact&theme=dark)](https://github.com/WesleyBert)
 
 ## Tecnologias que uso no meu dia a dia!
 
