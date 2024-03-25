@@ -1,7 +1,6 @@
 # Olá, eu sou Wesley! 👋💻
 
-![image](https://github.com/WesleyBert/WesleyBert/assets/90710910/1d7a5622-db53-467f-b546-43187fcbb3ca)
-
+<img src="https://i.pinimg.com/originals/13/96/ed/1396ed77fdd5296495cccd2b9c8d29e9.gif"/>
 
 ## Linguagens Mais Usadas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyBert&layout=compact&theme=dark)](https://github.com/WesleyBert)
