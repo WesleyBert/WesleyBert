@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img alt="HelloWorld" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" style="width: 20rem; height: auto;">
+      <img alt="HelloWorld" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" style="width: 20rem; height: auto; padding: 5rem;">
     </td>
     <td>
       <a href="https://github.com/WesleyBert">
