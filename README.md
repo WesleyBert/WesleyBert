@@ -1,28 +1,35 @@
-# Olá, eu sou Wesley! 👋💻
+# Olá, eu sou o Wesley! 👋💻
 
-<img alt="HelloWorld" src="https://i.pinimg.com/originals/13/96/ed/1396ed77fdd5296495cccd2b9c8d29e9.gif" style="width: 10rem; height: auto;">
+Sou formado em Análise e Desenvolvimento de Sistemas e apaixonado por desenvolvimento web. Atualmente, foco no desenvolvimento de aplicações modernas utilizando **React com TypeScript**, **Next.js** no front-end, e **Node.js com Express** e **SQL** no back-end.
 
-## Linguagens Mais Usadas:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyBert&layout=compact&theme=dark)](https://github.com/WesleyBert)
+---
 
-## Tecnologias que uso no meu dia a dia!
+## 🚀 Tecnologias que utilizo no dia a dia
 
-### Linguagens de Programação:
+### 🧠 Stack Principal
 <div style="display: inline_block">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
- <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img align="center" alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-### Frameworks e Bibliotecas:
-<div style="display: inline_block">
-  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-3776AB?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img align="center" alt="Styled Components" src="https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-  <img align="center" alt="Context API" src="https://img.shields.io/badge/Context%20API-3178C6?style=for-the-badge&logo=react&logoColor=white"/>
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-</div>
+---
+
+## 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyBert&layout=compact&theme=tokyonight)](https://github.com/WesleyBert)
+
+---
+
+## ✨ Sobre Mim
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Uninove  
+- 🚀 Transição de carreira com 2 bootcamps voltados para desenvolvimento web  
+- 💼 Foco atual: Construção de aplicações completas com **Next.js**, **API REST com Node/Express** e **persistência com SQL**  
+- 📬 Me encontre no [LinkedIn](https://www.linkedin.com/in/seu-usuario-linkedin)
+
+---
+
+📌 *Sempre aprendendo e buscando novos desafios na área de desenvolvimento web fullstack.*
