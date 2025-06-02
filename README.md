@@ -28,7 +28,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e apaixonado por desenvolv
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na Uninove  
 - 🚀 Transição de carreira com 2 bootcamps voltados para desenvolvimento web  
 - 💼 Foco atual: Construção de aplicações completas com **Next.js**, **API REST com Node/Express** e **persistência com SQL**  
-- 📬 Me encontre no [LinkedIn](https://www.linkedin.com/in/seu-usuario-linkedin)
+- 📬 Me encontre no [LinkedIn]([https://www.linkedin.com/in/seu-usuario-linkedin](https://www.linkedin.com/in/wesley-berto/))
 
 ---
 
